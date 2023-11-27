@@ -1,4 +1,4 @@
-package com.mastercard.labs.laas.bancolombia0823;
+package com.mastercard.labs.laas.baanxcrypto1023;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
@@ -18,7 +18,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "bancolombia0823";
+    return "baanx-crypto-nov-23";
   }
 
   /**

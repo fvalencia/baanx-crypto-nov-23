@@ -1,4 +1,4 @@
-package com.mastercard.labs.laas.bancolombia0823.newarchitecture;
+package com.mastercard.labs.laas.baanxcrypto1023.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.mastercard.labs.laas.bancolombia0823.BuildConfig;
-import com.mastercard.labs.laas.bancolombia0823.newarchitecture.components.MainComponentsRegistry;
-import com.mastercard.labs.laas.bancolombia0823.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.mastercard.labs.laas.baanxcrypto1023.BuildConfig;
+import com.mastercard.labs.laas.baanxcrypto1023.newarchitecture.components.MainComponentsRegistry;
+import com.mastercard.labs.laas.baanxcrypto1023.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

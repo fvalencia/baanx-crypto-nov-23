@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mastercard.labs.laas.bancolombia0823">
+    package="com.mastercard.labs.laas.baanxcrypto1023">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.Manifest.permission.WRITE_EXTERNAL_STORAGE" />

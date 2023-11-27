@@ -1,4 +1,4 @@
-package com.mastercard.labs.laas.bancolombia0823.newarchitecture.components;
+package com.mastercard.labs.laas.baanxcrypto1023.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

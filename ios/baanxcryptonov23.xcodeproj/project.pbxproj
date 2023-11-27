@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* bancolombia0823Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* bancolombia0823Tests.m */; };
+		00E356F31AD99517003FC87E /* baanxcryptonov23Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* baanxcryptonov23Tests.m */; };
 		0AA3E751AB4B478AA382AA0D /* CIBFontSans-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8E66920DEC664F93B7E980D2 /* CIBFontSans-Thin.otf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -39,11 +39,11 @@
 		A5EF6A8328CAA66700791961 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5EF6A7328CAA66700791961 /* EvilIcons.ttf */; };
 		A5EF6A8428CAA66700791961 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5EF6A7428CAA66700791961 /* MaterialCommunityIcons.ttf */; };
 		A7587AFC51A34CF2B1FDFC30 /* CIBFontSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 360093A7BB0B400D8595F8D7 /* CIBFontSans-Light.ttf */; };
-		C7DACD3D98FF3AE4C877448B /* libPods-bancolombia0823.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A35049B241D9352D26F53212 /* libPods-bancolombia0823.a */; };
+		C7DACD3D98FF3AE4C877448B /* libPods-baanxcryptonov23.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A35049B241D9352D26F53212 /* libPods-baanxcryptonov23.a */; };
 		E6DA67BFD9FA46CA906EF276 /* SF-Pro-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB82FC70EADD41F1A5B4807D /* SF-Pro-Italic.ttf */; };
 		EFA9E4612CEB410F8E4A8291 /* selection.json in Resources */ = {isa = PBXBuildFile; fileRef = 4E3423D7DFF742F886F92103 /* selection.json */; };
 		F5B1950B0A1040EF8917CB82 /* mastericons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05417D2CF407429EBC5DE72C /* mastericons.ttf */; };
-		FB63D162B32AAD0A7E23ACFA /* libPods-bancolombia0823-bancolombia0823Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CBA79391ED6E3EABADCB2E5A /* libPods-bancolombia0823-bancolombia0823Tests.a */; };
+		FB63D162B32AAD0A7E23ACFA /* libPods-baanxcryptonov23-baanxcryptonov23Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CBA79391ED6E3EABADCB2E5A /* libPods-baanxcryptonov23-baanxcryptonov23Tests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,35 +52,35 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = bancolombia0823;
+			remoteInfo = "baanxcryptonov23";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* bancolombia0823Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bancolombia0823Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* baanxcryptonov23Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "baanxcryptonov23Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* bancolombia0823Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = bancolombia0823Tests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* baanxcryptonov23Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "baanxcryptonov23Tests.m"; sourceTree = "<group>"; };
 		0318DAB43770418382520827 /* CIBFontSans-Book.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CIBFontSans-Book.otf"; path = "../src/assets/fonts/CIBFontSans-Book.otf"; sourceTree = "<group>"; };
 		05417D2CF407429EBC5DE72C /* mastericons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = mastericons.ttf; path = ../src/assets/fonts/mastericons.ttf; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* bancolombia0823.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bancolombia0823.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = bancolombia0823/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = bancolombia0823/AppDelegate.mm; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = bancolombia0823/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = bancolombia0823/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = bancolombia0823/main.m; sourceTree = "<group>"; };
-		21ADBB13C6BB2A0F58C8718D /* Pods-bancolombia0823-bancolombia0823Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bancolombia0823-bancolombia0823Tests.debug.xcconfig"; path = "Target Support Files/Pods-bancolombia0823-bancolombia0823Tests/Pods-bancolombia0823-bancolombia0823Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		27C273376F02247725221A91 /* Pods-bancolombia0823.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bancolombia0823.debug.xcconfig"; path = "Target Support Files/Pods-bancolombia0823/Pods-bancolombia0823.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* baanxcryptonov23.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "baanxcryptonov23.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "baanxcryptonov23/AppDelegate.h"; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = "baanxcryptonov23/AppDelegate.mm"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "baanxcryptonov23/Images.xcassets"; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "baanxcryptonov23/Info.plist"; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "baanxcryptonov23/main.m"; sourceTree = "<group>"; };
+		21ADBB13C6BB2A0F58C8718D /* Pods-baanxcryptonov23-baanxcryptonov23Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-baanxcryptonov23-baanxcryptonov23Tests.debug.xcconfig"; path = "Target Support Files/Pods-baanxcryptonov23-baanxcryptonov23Tests/Pods-baanxcryptonov23-baanxcryptonov23Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		27C273376F02247725221A91 /* Pods-baanxcryptonov23.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-baanxcryptonov23.debug.xcconfig"; path = "Target Support Files/Pods-baanxcryptonov23/Pods-baanxcryptonov23.debug.xcconfig"; sourceTree = "<group>"; };
 		360093A7BB0B400D8595F8D7 /* CIBFontSans-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CIBFontSans-Light.ttf"; path = "../src/assets/fonts/CIBFontSans-Light.ttf"; sourceTree = "<group>"; };
 		4E3423D7DFF742F886F92103 /* selection.json */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = selection.json; path = ../src/assets/fonts/selection.json; sourceTree = "<group>"; };
 		741E6B78E1294D45B8AFB2AF /* CIBFontSans-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CIBFontSans-Bold.otf"; path = "../src/assets/fonts/CIBFontSans-Bold.otf"; sourceTree = "<group>"; };
-		7E2615C2C6C7895556928048 /* Pods-bancolombia0823-bancolombia0823Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bancolombia0823-bancolombia0823Tests.release.xcconfig"; path = "Target Support Files/Pods-bancolombia0823-bancolombia0823Tests/Pods-bancolombia0823-bancolombia0823Tests.release.xcconfig"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = bancolombia0823/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7E2615C2C6C7895556928048 /* Pods-baanxcryptonov23-baanxcryptonov23Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-baanxcryptonov23-baanxcryptonov23Tests.release.xcconfig"; path = "Target Support Files/Pods-baanxcryptonov23-baanxcryptonov23Tests/Pods-baanxcryptonov23-baanxcryptonov23Tests.release.xcconfig"; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "baanxcryptonov23/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 		8E66920DEC664F93B7E980D2 /* CIBFontSans-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CIBFontSans-Thin.otf"; path = "../src/assets/fonts/CIBFontSans-Thin.otf"; sourceTree = "<group>"; };
 		9D1FF39782FD49F7A9DFBFF2 /* CIBFontNumerales-Color.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CIBFontNumerales-Color.otf"; path = "../src/assets/fonts/CIBFontNumerales-Color.otf"; sourceTree = "<group>"; };
-		A12CFB36C6B7C3EAAA919C62 /* Pods-bancolombia0823.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bancolombia0823.release.xcconfig"; path = "Target Support Files/Pods-bancolombia0823/Pods-bancolombia0823.release.xcconfig"; sourceTree = "<group>"; };
-		A35049B241D9352D26F53212 /* libPods-bancolombia0823.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-bancolombia0823.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A12CFB36C6B7C3EAAA919C62 /* Pods-baanxcryptonov23.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-baanxcryptonov23.release.xcconfig"; path = "Target Support Files/Pods-baanxcryptonov23/Pods-baanxcryptonov23.release.xcconfig"; sourceTree = "<group>"; };
+		A35049B241D9352D26F53212 /* libPods-baanxcryptonov23.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-baanxcryptonov23.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5D950C52A7C63B200CB88ED /* Dynamic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dynamic.swift; sourceTree = "<group>"; };
-		A5D950C72A7C643F00CB88ED /* bancolombia0823-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "bancolombia0823-Bridging-Header.h"; sourceTree = "<group>"; };
+		A5D950C72A7C643F00CB88ED /* baanxcryptonov23-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "baanxcryptonov23-Bridging-Header.h"; sourceTree = "<group>"; };
 		A5D950C82A7C682100CB88ED /* space-runner.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "space-runner.json"; path = "../src/assets/images/space-runner.json"; sourceTree = "<group>"; };
 		A5D950CA2A7C6D7A00CB88ED /* SplashScreen.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SplashScreen.json; sourceTree = "<group>"; };
 		A5D950CC2A7C6FEA00CB88ED /* Bancolombia_S.A._logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bancolombia_S.A._logo.png; sourceTree = "<group>"; };
@@ -100,9 +100,9 @@
 		A5EF6A7228CAA66700791961 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		A5EF6A7328CAA66700791961 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		A5EF6A7428CAA66700791961 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
-		A5EF6A8528CBCDC800791961 /* bancolombia0823.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = bancolombia0823.entitlements; path = bancolombia0823/bancolombia0823.entitlements; sourceTree = "<group>"; };
+		A5EF6A8528CBCDC800791961 /* baanxcryptonov23.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = baanxcryptonov23.entitlements; path = baanxcryptonov23/baanxcryptonov23.entitlements; sourceTree = "<group>"; };
 		A97C1ABCAA4D45A8B972FA2B /* SF-Pro.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro.ttf"; path = "../src/assets/fonts/SF-Pro.ttf"; sourceTree = "<group>"; };
-		CBA79391ED6E3EABADCB2E5A /* libPods-bancolombia0823-bancolombia0823Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-bancolombia0823-bancolombia0823Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBA79391ED6E3EABADCB2E5A /* libPods-baanxcryptonov23-baanxcryptonov23Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-baanxcryptonov23-baanxcryptonov23Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6CB2D71B4B3450A83F2C056 /* CIBFontSans-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CIBFontSans-Regular.otf"; path = "../src/assets/fonts/CIBFontSans-Regular.otf"; sourceTree = "<group>"; };
 		EB82FC70EADD41F1A5B4807D /* SF-Pro-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Italic.ttf"; path = "../src/assets/fonts/SF-Pro-Italic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -113,7 +113,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB63D162B32AAD0A7E23ACFA /* libPods-bancolombia0823-bancolombia0823Tests.a in Frameworks */,
+				FB63D162B32AAD0A7E23ACFA /* libPods-baanxcryptonov23-baanxcryptonov23Tests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -121,20 +121,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7DACD3D98FF3AE4C877448B /* libPods-bancolombia0823.a in Frameworks */,
+				C7DACD3D98FF3AE4C877448B /* libPods-baanxcryptonov23.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* bancolombia0823Tests */ = {
+		00E356EF1AD99517003FC87E /* baanxcryptonov23Tests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* bancolombia0823Tests.m */,
+				00E356F21AD99517003FC87E /* baanxcryptonov23Tests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = bancolombia0823Tests;
+			path = "baanxcryptonov23Tests";
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -181,10 +181,10 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* bancolombia0823 */ = {
+		13B07FAE1A68108700A75B9A /* baanxcryptonov23 */ = {
 			isa = PBXGroup;
 			children = (
-				A5EF6A8528CBCDC800791961 /* bancolombia0823.entitlements */,
+				A5EF6A8528CBCDC800791961 /* baanxcryptonov23.entitlements */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -192,17 +192,17 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				A5D950C52A7C63B200CB88ED /* Dynamic.swift */,
-				A5D950C72A7C643F00CB88ED /* bancolombia0823-Bridging-Header.h */,
+				A5D950C72A7C643F00CB88ED /* baanxcryptonov23-Bridging-Header.h */,
 			);
-			name = bancolombia0823;
+			name = "baanxcryptonov23";
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				A35049B241D9352D26F53212 /* libPods-bancolombia0823.a */,
-				CBA79391ED6E3EABADCB2E5A /* libPods-bancolombia0823-bancolombia0823Tests.a */,
+				A35049B241D9352D26F53212 /* libPods-baanxcryptonov23.a */,
+				CBA79391ED6E3EABADCB2E5A /* libPods-baanxcryptonov23-baanxcryptonov23Tests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -217,9 +217,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* bancolombia0823 */,
+				13B07FAE1A68108700A75B9A /* baanxcryptonov23 */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* bancolombia0823Tests */,
+				00E356EF1AD99517003FC87E /* baanxcryptonov23Tests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
@@ -233,8 +233,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* bancolombia0823.app */,
-				00E356EE1AD99517003FC87E /* bancolombia0823Tests.xctest */,
+				13B07F961A680F5B00A75B9A /* baanxcryptonov23.app */,
+				00E356EE1AD99517003FC87E /* baanxcryptonov23Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -242,10 +242,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				27C273376F02247725221A91 /* Pods-bancolombia0823.debug.xcconfig */,
-				A12CFB36C6B7C3EAAA919C62 /* Pods-bancolombia0823.release.xcconfig */,
-				21ADBB13C6BB2A0F58C8718D /* Pods-bancolombia0823-bancolombia0823Tests.debug.xcconfig */,
-				7E2615C2C6C7895556928048 /* Pods-bancolombia0823-bancolombia0823Tests.release.xcconfig */,
+				27C273376F02247725221A91 /* Pods-baanxcryptonov23.debug.xcconfig */,
+				A12CFB36C6B7C3EAAA919C62 /* Pods-baanxcryptonov23.release.xcconfig */,
+				21ADBB13C6BB2A0F58C8718D /* Pods-baanxcryptonov23-baanxcryptonov23Tests.debug.xcconfig */,
+				7E2615C2C6C7895556928048 /* Pods-baanxcryptonov23-baanxcryptonov23Tests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -253,9 +253,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* bancolombia0823Tests */ = {
+		00E356ED1AD99517003FC87E /* baanxcryptonov23Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "bancolombia0823Tests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "baanxcryptonov23Tests" */;
 			buildPhases = (
 				055991399DE8BBF9C01FF51B /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -269,14 +269,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = bancolombia0823Tests;
-			productName = bancolombia0823Tests;
-			productReference = 00E356EE1AD99517003FC87E /* bancolombia0823Tests.xctest */;
+			name = baanxcryptonov23Tests;
+			productName = baanxcryptonov23Tests;
+			productReference = 00E356EE1AD99517003FC87E /* baanxcryptonov23Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* bancolombia0823 */ = {
+		13B07F861A680F5B00A75B9A /* baanxcryptonov23 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "bancolombia0823" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "baanxcryptonov23" */;
 			buildPhases = (
 				59CE9ACA596E875225B0236B /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -291,9 +291,9 @@
 			);
 			dependencies = (
 			);
-			name = bancolombia0823;
-			productName = bancolombia0823;
-			productReference = 13B07F961A680F5B00A75B9A /* bancolombia0823.app */;
+			name = "baanxcryptonov23";
+			productName = "baanxcryptonov23";
+			productReference = 13B07F961A680F5B00A75B9A /* baanxcryptonov23.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -313,7 +313,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "bancolombia0823" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "baanxcryptonov23" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -326,8 +326,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* bancolombia0823 */,
-				00E356ED1AD99517003FC87E /* bancolombia0823Tests */,
+				13B07F861A680F5B00A75B9A /* baanxcryptonov23 */,
+				00E356ED1AD99517003FC87E /* baanxcryptonov23Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -412,7 +412,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-bancolombia0823-bancolombia0823Tests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-baanxcryptonov23-baanxcryptonov23Tests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -425,15 +425,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823-bancolombia0823Tests/Pods-bancolombia0823-bancolombia0823Tests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23-baanxcryptonov23Tests/Pods-baanxcryptonov23-baanxcryptonov23Tests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823-bancolombia0823Tests/Pods-bancolombia0823-bancolombia0823Tests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23-baanxcryptonov23Tests/Pods-baanxcryptonov23-baanxcryptonov23Tests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823-bancolombia0823Tests/Pods-bancolombia0823-bancolombia0823Tests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23-baanxcryptonov23Tests/Pods-baanxcryptonov23-baanxcryptonov23Tests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		59CE9ACA596E875225B0236B /* [CP] Check Pods Manifest.lock */ = {
@@ -451,7 +451,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-bancolombia0823-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-baanxcryptonov23-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -464,15 +464,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823-bancolombia0823Tests/Pods-bancolombia0823-bancolombia0823Tests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23-baanxcryptonov23Tests/Pods-baanxcryptonov23-baanxcryptonov23Tests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823-bancolombia0823Tests/Pods-bancolombia0823-bancolombia0823Tests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23-baanxcryptonov23Tests/Pods-baanxcryptonov23-baanxcryptonov23Tests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823-bancolombia0823Tests/Pods-bancolombia0823-bancolombia0823Tests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23-baanxcryptonov23Tests/Pods-baanxcryptonov23-baanxcryptonov23Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		EDFD361E9F4C9E5B50C6BC70 /* [CP] Embed Pods Frameworks */ = {
@@ -481,15 +481,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823/Pods-bancolombia0823-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23/Pods-baanxcryptonov23-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823/Pods-bancolombia0823-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23/Pods-baanxcryptonov23-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823/Pods-bancolombia0823-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23/Pods-baanxcryptonov23-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F0171AD1EC50F64CFDD77AB7 /* [CP] Copy Pods Resources */ = {
@@ -498,15 +498,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823/Pods-bancolombia0823-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23/Pods-baanxcryptonov23-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823/Pods-bancolombia0823-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23/Pods-baanxcryptonov23-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bancolombia0823/Pods-bancolombia0823-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-baanxcryptonov23/Pods-baanxcryptonov23-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -535,7 +535,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* bancolombia0823Tests.m in Sources */,
+				00E356F31AD99517003FC87E /* baanxcryptonov23Tests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -554,7 +554,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* bancolombia0823 */;
+			target = 13B07F861A680F5B00A75B9A /* baanxcryptonov23 */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -562,7 +562,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 21ADBB13C6BB2A0F58C8718D /* Pods-bancolombia0823-bancolombia0823Tests.debug.xcconfig */;
+			baseConfigurationReference = 21ADBB13C6BB2A0F58C8718D /* Pods-baanxcryptonov23-baanxcryptonov23Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -570,7 +570,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = bancolombia0823Tests/Info.plist;
+				INFOPLIST_FILE = "baanxcryptonov23Tests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -582,20 +582,20 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mastercard.labs.laas.bancolombia0823;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mastercard.labs.laas.baanxcrypto1023";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/bancolombia0823.app/bancolombia0823";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/baanxcryptonov23.app/baanxcryptonov23";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7E2615C2C6C7895556928048 /* Pods-bancolombia0823-bancolombia0823Tests.release.xcconfig */;
+			baseConfigurationReference = 7E2615C2C6C7895556928048 /* Pods-baanxcryptonov23-baanxcryptonov23Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = bancolombia0823Tests/Info.plist;
+				INFOPLIST_FILE = "baanxcryptonov23Tests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -607,26 +607,27 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mastercard.labs.laas.bancolombia0823;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mastercard.labs.laas.baanxcrypto1023";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/bancolombia0823.app/bancolombia0823";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/baanxcryptonov23.app/baanxcryptonov23";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 27C273376F02247725221A91 /* Pods-bancolombia0823.debug.xcconfig */;
+			baseConfigurationReference = 27C273376F02247725221A91 /* Pods-baanxcryptonov23.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = bancolombia0823/bancolombia0823.entitlements;
+				CODE_SIGN_ENTITLEMENTS = baanxcryptonov23/baanxcryptonov23.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = FARWN7FEXX;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = bancolombia0823/Info.plist;
+				INFOPLIST_FILE = "baanxcryptonov23/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "baanx-crypto-nov-23";
 				INFOPLIST_KEY_CFBundleDisplayName = Launchpad;
 				"INFOPLIST_KEY_CFBundleDisplayName[sdk=iphoneos*]" = Launchpad;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
@@ -641,10 +642,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mastercard.labs.laas.bancolombia0823;
-				PRODUCT_NAME = bancolombia0823;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mastercard.labs.laas.baanxcrypto1023";
+				PRODUCT_NAME = "baanxcryptonov23";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "bancolombia0823-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "baanxcryptonov23-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -653,17 +654,18 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A12CFB36C6B7C3EAAA919C62 /* Pods-bancolombia0823.release.xcconfig */;
+			baseConfigurationReference = A12CFB36C6B7C3EAAA919C62 /* Pods-baanxcryptonov23.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = bancolombia0823/bancolombia0823.entitlements;
+				CODE_SIGN_ENTITLEMENTS = baanxcryptonov23/baanxcryptonov23.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = FARWN7FEXX;
-				INFOPLIST_FILE = bancolombia0823/Info.plist;
+				INFOPLIST_FILE = "baanxcryptonov23/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "baanx-crypto-nov-23";
 				INFOPLIST_KEY_CFBundleDisplayName = Launchpad;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -677,10 +679,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mastercard.labs.laas.bancolombia0823;
-				PRODUCT_NAME = bancolombia0823;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mastercard.labs.laas.baanxcrypto1023";
+				PRODUCT_NAME = "baanxcryptonov23";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "bancolombia0823-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "baanxcryptonov23-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -826,7 +828,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "bancolombia0823Tests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "baanxcryptonov23Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -835,7 +837,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "bancolombia0823" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "baanxcryptonov23" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -844,7 +846,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "bancolombia0823" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "baanxcryptonov23" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

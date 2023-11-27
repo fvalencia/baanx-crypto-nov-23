@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>B-Transfer</string>
+	<string>baanx-crypto-nov-23</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -40,7 +40,7 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>Permition to use FaceID to Authentication</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Permission to only to save photos taked from the app</string>
 	<key>NSPhotoLibraryUsageDescription</key>
