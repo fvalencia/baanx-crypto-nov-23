@@ -11,7 +11,6 @@ import {
 	View,
 	useWindowDimensions,
 } from 'react-native';
-import Video from 'react-native-video';
 import { ThemeContext } from 'styled-components/native';
 
 export type InstagramPostProps = {
@@ -64,6 +63,8 @@ export const InstagramVideo: FC<InstagramPostProps> = ({
 					/>
 				</TouchableOpacity>
 			</View>
+			{/*
+			TODO Fix route
 			<Video
 				source={require('@scenes/awareness/instagram.mp4')}
 				style={{ width: width, height: 360 }}
@@ -73,7 +74,7 @@ export const InstagramVideo: FC<InstagramPostProps> = ({
 				resizeMode="cover"
 				onBuffer={this.videoBuffer}
 				ref={ref => (this.player = ref)}
-			/>
+			/> */}
 			{adDescription && (
 				<Pressable
 					onPress={() => {

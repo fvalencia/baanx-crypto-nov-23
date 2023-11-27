@@ -7,7 +7,7 @@
 #import <React/RCTRootView.h>
 #import "RNSplashScreen.h"
 
-#import "bancolombia0823-Swift.h"
+#import "baanxcryptonov23-Swift.h"
 
 #import <React/RCTAppSetupUtils.h>
 
@@ -49,7 +49,7 @@ static NSString *const kRNConcurrentRoot = @"concurrentRoot";
 #endif
   
   NSDictionary *initProps = [self prepareInitialProps];
-  UIView *rootView = RCTAppSetupDefaultRootView(bridge, @"bancolombia0823", initProps);
+  UIView *rootView = RCTAppSetupDefaultRootView(bridge, @"baanxcryptonov23", initProps);
   
   if (@available(iOS 13.0, *)) {
     rootView.backgroundColor = [UIColor systemBackgroundColor];
