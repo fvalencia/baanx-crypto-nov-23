@@ -1,0 +1,45 @@
+{
+	"migIndex": 1,
+	"data": [
+		{
+			"path": "src/assets/fonts/CIBFontNumerales-Color.otf",
+			"sha1": "69f808ada14857023ce0dad3611dfe62ef70ba15"
+		},
+		{
+			"path": "src/assets/fonts/CIBFontSans-Bold.otf",
+			"sha1": "a14aee01a35d21869f100d408fd6e2d92039dcf1"
+		},
+		{
+			"path": "src/assets/fonts/CIBFontSans-Book.otf",
+			"sha1": "8fb25494d9ffb98c8b9c77863e6fdd3f82dfa21d"
+		},
+		{
+			"path": "src/assets/fonts/CIBFontSans-Light.ttf",
+			"sha1": "89689ed7f7547a3815d9fa2d0a2c11513480086e"
+		},
+		{
+			"path": "src/assets/fonts/CIBFontSans-Regular.otf",
+			"sha1": "48109f3a30ace8be32ab20354d87af887a6e381a"
+		},
+		{
+			"path": "src/assets/fonts/CIBFontSans-Thin.otf",
+			"sha1": "28f1c8f50e84315bdc1cd14e171fd72812e4f935"
+		},
+		{
+			"path": "src/assets/fonts/SF-Pro-Italic.ttf",
+			"sha1": "381fecd3511b2977edb876872f6a6e80160c271f"
+		},
+		{
+			"path": "src/assets/fonts/SF-Pro.ttf",
+			"sha1": "5f9a4ccc5cb268a870402d6fa2d4fe7a6b7058d2"
+		},
+		{
+			"path": "src/assets/fonts/mastericons.ttf",
+			"sha1": "92a560bbf62035efd10ae466b032d6df088bd833"
+		},
+		{
+			"path": "src/assets/fonts/selection.json",
+			"sha1": "2739e8a01df3b570359aefb64ec496ffbd066b52"
+		}
+	]
+}
